@@ -1,5 +1,4 @@
 # download-accelerator
-a Java program that accelerates the download speed by splitting the file using threads.
 
 A program to develop a download accelerator tool by working with TCP Server and
 TCP Client.
