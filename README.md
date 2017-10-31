@@ -5,6 +5,7 @@ A program to develop a download accelerator tool by working with TCP Server and
 TCP Client.
 
 **Analysis**
+
 The first task that was performed was I had to clearly understand the requirements
 and functional specification by detailing a flow of events for the program. I analyzed
 the program by trying to state the program’s purpose in simple English language and
@@ -27,6 +28,7 @@ file is downloaded by being partitioned into smaller files and later joined to m
 whole file.
 
 **Design**
+
 This phase was all about identifying state, behavior of classes and objects and their
 relationships. A skeleton of the program was first drafted on specifying what each
 classes needs to perform. For this project, I created two classes, “TCPServerNischal”
